@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.7.1] - 2024-11-14
+
+### Fixed
+- Form finisher not visible in TYPO3 v13 using site sets
+
+## [1.7.0] - 2024-11-11
+
+### Added
+- Allow cleanup command in scheduler (#11), thanks to @RKlingler
+
 ## [1.6.1] - 2024-05-17
 
 ### Fixed
@@ -50,7 +60,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release
 
-[Unreleased]: https://github.com/brotkrueml/typo3-form-rate-limit/compare/v1.6.1...HEAD
+[Unreleased]: https://github.com/brotkrueml/typo3-form-rate-limit/compare/v1.7.1...HEAD
+[1.7.1]: https://github.com/brotkrueml/typo3-form-rate-limit/compare/v1.7.1...v1.7.1
+[1.7.0]: https://github.com/brotkrueml/typo3-form-rate-limit/compare/v1.6.1...v1.7.0
 [1.6.1]: https://github.com/brotkrueml/typo3-form-rate-limit/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/brotkrueml/typo3-form-rate-limit/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/brotkrueml/typo3-form-rate-limit/compare/v1.4.0...v1.5.0
